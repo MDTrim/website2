@@ -19,7 +19,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: yeti
     toc: true
 
 editor: source
