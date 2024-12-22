@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "project_AP.html",
+    "href": "project_AP.html",
+    "title": "CS-A AP Exam Access Project",
     "section": "",
-    "text": "Understanding access to CS-A AP Exams in Massachusetts \nThis project involves exploring and analyzing the data provided by the State of Massachusetts on high school AP exams completed in a given school year, across the state. Data is reported by school district, and when there are 10 or tests taken, the data are broken down into scores. Other information includes the size of the senior cohort and tests taken by demographic features such as race and gender.\nIn my analysis, I have tried to determine if there is a relationship between school district wealth and access to and success on CS A AP exams. Because computer science is a field concerned with broadening its representation of various types of identity, and because UMass is a state Land Grant institution with a responsibility to educate our state’s citizens, I wanted to know if there seemed to be a way that the AP exam is creating more opportunities for those from wealthier districts.\nIn my statistical analysis I was unable to find a meaningful correlation in the data provided on the State’s Education website. But, by examining just the top 20 districts in terms of number of exams taken, and correlating those districts with the median home price, I was able to determine that a disproportionate number of CS-A Exams are taken in districts with very high (at or above $1 million) median home values."
+    "text": "Understanding access to CS-A AP Exams in Massachusetts \nIn my analysis, I have tried to determine if there is a relationship between school district wealth and access to and success on CS A AP exams. Because computer science is a field concerned with broadening its representation of various types of identity, and because UMass is a state Land Grant institution with a responsibility to educate our state’s residents, I wanted to know if there seemed to be a way that the AP exam is creating more opportunities for those from wealthier districts.\nIn my statistical analysis I was unable to find a meaningful correlation in the data provided on the State’s Education website. But, by examining just the top 20 districts in terms of number of exams taken, and correlating those districts with the median home price, I was able to determine that a disproportionate number of CS-A Exams are taken in districts with very high (at or above $1 million) median home values."
   },
   {
-    "objectID": "projects.html#current-project",
-    "href": "projects.html#current-project",
-    "title": "Projects",
+    "objectID": "project_AP.html#details-of-current-project",
+    "href": "project_AP.html#details-of-current-project",
+    "title": "CS-A AP Exam Access Project",
     "section": "",
-    "text": "Understanding access to CS-A AP Exams in Massachusetts \nThis project involves exploring and analyzing the data provided by the State of Massachusetts on high school AP exams completed in a given school year, across the state. Data is reported by school district, and when there are 10 or tests taken, the data are broken down into scores. Other information includes the size of the senior cohort and tests taken by demographic features such as race and gender.\nIn my analysis, I have tried to determine if there is a relationship between school district wealth and access to and success on CS A AP exams. Because computer science is a field concerned with broadening its representation of various types of identity, and because UMass is a state Land Grant institution with a responsibility to educate our state’s citizens, I wanted to know if there seemed to be a way that the AP exam is creating more opportunities for those from wealthier districts.\nIn my statistical analysis I was unable to find a meaningful correlation in the data provided on the State’s Education website. But, by examining just the top 20 districts in terms of number of exams taken, and correlating those districts with the median home price, I was able to determine that a disproportionate number of CS-A Exams are taken in districts with very high (at or above $1 million) median home values."
+    "text": "Understanding access to CS-A AP Exams in Massachusetts \nIn my analysis, I have tried to determine if there is a relationship between school district wealth and access to and success on CS A AP exams. Because computer science is a field concerned with broadening its representation of various types of identity, and because UMass is a state Land Grant institution with a responsibility to educate our state’s residents, I wanted to know if there seemed to be a way that the AP exam is creating more opportunities for those from wealthier districts.\nIn my statistical analysis I was unable to find a meaningful correlation in the data provided on the State’s Education website. But, by examining just the top 20 districts in terms of number of exams taken, and correlating those districts with the median home price, I was able to determine that a disproportionate number of CS-A Exams are taken in districts with very high (at or above $1 million) median home values."
   },
   {
     "objectID": "index.html",
@@ -40,5 +40,19 @@
     "title": "Michelle Trim",
     "section": "",
     "text": "2013-pres Senior Lecturer II, Manning College of Information and Computer Sciences (CICS), University of Massachusetts, Amherst. Lecturer 2013-2019; Senior Lecturer II 2019-pres.\n2012-2013 Assistant Professor and Director of First-Year Writing, English Department, University of New Haven, West Haven, Connecticut.\n2007-2012 Lecturer in English, English Department, Elon University, Elon, North Carolina. Achieved continuance via rigorous review process in 2011.\n2004-2007 Full-time, Visiting Instructor of English, Department of English and Foreign Languages, Lander University, Greenwood, South Carolina."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Understanding access to CS-A AP Exams in Massachusetts \nThis project involves exploring and analyzing the data provided by the State of Massachusetts on high school AP exams completed in a given school year, across the state. Data is reported by school district, and when there are 10 or tests taken, the data are broken down into scores. Other information includes the size of the senior cohort and tests taken by demographic features such as race and gender.\nIn my analysis, I have tried to determine if there is a relationship between school district wealth and access to and success on CS A AP exams. Because computer science is a field concerned with broadening its representation of various types of identity, and because UMass is a state Land Grant institution with a responsibility to educate our state’s citizens, I wanted to know if there seemed to be a way that the AP exam is creating more opportunities for those from wealthier districts.\nIn my statistical analysis I was unable to find a meaningful correlation in the data provided on the State’s Education website. But, by examining just the top 20 districts in terms of number of exams taken, and correlating those districts with the median home price, I was able to determine that a disproportionate number of CS-A Exams are taken in districts with very high (at or above $1 million) median home values.\nHere are more details about this project."
+  },
+  {
+    "objectID": "projects.html#current-project",
+    "href": "projects.html#current-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Understanding access to CS-A AP Exams in Massachusetts \nThis project involves exploring and analyzing the data provided by the State of Massachusetts on high school AP exams completed in a given school year, across the state. Data is reported by school district, and when there are 10 or tests taken, the data are broken down into scores. Other information includes the size of the senior cohort and tests taken by demographic features such as race and gender.\nIn my analysis, I have tried to determine if there is a relationship between school district wealth and access to and success on CS A AP exams. Because computer science is a field concerned with broadening its representation of various types of identity, and because UMass is a state Land Grant institution with a responsibility to educate our state’s citizens, I wanted to know if there seemed to be a way that the AP exam is creating more opportunities for those from wealthier districts.\nIn my statistical analysis I was unable to find a meaningful correlation in the data provided on the State’s Education website. But, by examining just the top 20 districts in terms of number of exams taken, and correlating those districts with the median home price, I was able to determine that a disproportionate number of CS-A Exams are taken in districts with very high (at or above $1 million) median home values.\nHere are more details about this project."
   }
 ]
