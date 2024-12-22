@@ -12,3 +12,8 @@ In my statistical analysis I was unable to find a meaningful correlation in the 
 
 
 
+image: img/img1.png
+
+<img_src ="img/img1.png">
+<img_src = "img/img2.png">
+<img_src = "img/img3.png">
