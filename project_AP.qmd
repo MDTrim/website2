@@ -14,3 +14,5 @@ In my statistical analysis I was unable to find a meaningful correlation in the 
 ![Graph of most exams taken](img/img2.png)
 ![Graph of home values and most exams taken](img/img3.png)
 To understand the progression of my data analysis, visit <a href="final_project.html"> this page.</a>
+
+To interact with the data itself, see <a href = "dashboard.html">this dashboard table </a> of the main data set.

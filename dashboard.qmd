@@ -1,0 +1,25 @@
+---
+title: "Exploring the Dataset"
+output: 
+  flexdashboard::flex_dashboard:
+    vertical_layout: fill
+---
+
+### Districts with CSA Exam takers
+
+<b>Understanding access to CS-A AP Exams in 2023 in Massachusetts </b>
+```{r, echo=FALSE, warning=FALSE}
+library(readr)
+
+CSA_all <- read_csv("PerPupilExpenditures_APCSA_HS.csv",locale=locale(encoding="latin1"), show_col_types = FALSE)
+
+```
+
+Sorting this table by CSATestsTaken will show the top 10 districts with the most CSA Exams taken in 2023. Keeping this sorting, scroll over to compare the values in the Senior_cohort column, and you can see that the cohorts are not consistently large. This suggests that there is some factor operating at a given school district that is resulting in proportionately more computer science AP exams being taken than in other districts.
+```{r, echo=FALSE, warning=FALSE}
+
+DT::datatable(CSA_all, options = list(
+  bPaginate = TRUE
+))
+```
+
